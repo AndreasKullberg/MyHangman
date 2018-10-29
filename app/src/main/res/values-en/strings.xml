@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="spela" translatable="false">Play</string>
+    <string name="om">About</string>
+    <string name="hangman">Hangman</string>
+    <string name="programmerad_av_andreas_kullberg">Programed by Andreas Kullberg.</string>
+    <string name="gissa">Guess</string>
+    <string name="du_vann">You won!</string>
+    <string name="ordet_var">Correct word:</string>
+    <string name="gissningar_kvar">Guesses left:</string>
+    <string name="tillbaka_till_huvudmenyn">Back to menu</string>
+    <string name="antal_gissningar_kvar">Guesses left:</string>
+    <string name="duFörlorade">You lose!</string>
+    <string name="skrivBokstav">Type a letter!</string>
+    <string name="bokstav_Använd">The letter is already used!</string>
+</resources>

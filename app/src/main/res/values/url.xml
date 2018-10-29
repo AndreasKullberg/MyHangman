@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultTheme" translatable="false">https://raw.githubusercontent.com/AndreasKullberg/HangmanPic/master/Hangmanpic/hang</string>
+    <string name="halloweenTheme" translatable="false">https://raw.githubusercontent.com/maxappdevelopement/pic_hangman/master/HangmanPicsHaloween/hang</string>
+</resources>

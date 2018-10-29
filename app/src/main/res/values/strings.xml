@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="spela">Spela</string>
+    <string name="om">Om</string>
+    <string name="hangman">Hangman</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="programmerad_av_andreas_kullberg">Programmerad av Andreas Kullberg.</string>
+    <string name="about" translatable="false">About</string>
+    <string name="gissa">Gissa</string>
+    <string name="du_vann">Du Vann!</string>
+    <string name="ordet_var">Ordet var:</string>
+    <string name="gissningar_kvar">Gissningar kvar:</string>
+    <string name="tillbaka_till_huvudmenyn">Tillbaka till huvudmenyn</string>
+    <string name="antal_gissningar_kvar">Antal gissningar kvar:</string>
+    <string name="duFörlorade">Du förlorade!</string>
+    <string name="skrivBokstav">Skriv in en bokstav!</string>
+    <string name="bokstav_Använd">Du har redan använt bokstaven!</string>
+</resources>
