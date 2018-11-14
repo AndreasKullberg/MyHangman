@@ -82,6 +82,7 @@ public class Hangman extends ViewModel {
     public void newWord(String[] words){
        int index = random.nextInt(words.length);
        word = words[index];
+       initiateCharWord();
     }
 
     // the new boston

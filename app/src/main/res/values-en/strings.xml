@@ -14,4 +14,20 @@
     <string name="duFörlorade">You lose!</string>
     <string name="skrivBokstav">Type a letter!</string>
     <string name="bokstav_Använd">The letter is already used!</string>
+    <string name="huvudmeny">Menu</string>
+    <string name="resultat">Result</string>
+    <string name="omMeny">About</string>
+
+    <string-array name="words">
+        <item>flight</item>
+        <item>biscuit</item>
+        <item>beyond</item>
+        <item>attorney</item>
+        <item>determine</item>
+        <item>direction</item>
+        <item>establish</item>
+        <item>provide</item>
+        <item>resource</item>
+    </string-array>
+    <string name="gissaHint">Guess</string>
 </resources>
