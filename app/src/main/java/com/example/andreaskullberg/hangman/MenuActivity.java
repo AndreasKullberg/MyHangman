@@ -63,6 +63,7 @@ public class MenuActivity extends Fragment {
                 if (themeButton.isChecked()) {
                    model.setTheme(true);
                     getActivity().recreate();
+
                 }
                 else {
                     model.setTheme(false);
